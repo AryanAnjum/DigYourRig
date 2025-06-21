@@ -1,0 +1,54 @@
+[Laptops]
+1,Dell Inspiron 3000,41900
+2,HP Pavilion x360,68300
+3,Dell G5 SE,92900
+4,Asus TUF Gaming,64990
+5,Lenovo Legion,89890
+6,Acer Aspire 7,49990
+7,Acer Nitro 5,65990
+8,Apple Macbook Air,122990
+9,HP 15s,62500
+
+[Mobiles]
+10,MI Note 10T Pro,49999
+11,Realme X3 Superzoom,28999
+12,Motorola Edge,64999
+13,Asus Rog 3,46999
+14,Poco X2,16999
+15,Vivo V20,24990
+16,IPhone 12 Max Pro,119900
+17,Nokia 5.3,13999
+18,OnePlus Nord Pro 5G,29999
+
+[Headphones]
+19,Philips SHP1900,699
+20,Sony MDR-7506,8790
+21,Sennheiser HD 180,2585
+22,Sony MDR-XB450AP,2250
+23,iBall EarWear Rock,887
+24,Senheiser HD 206,999
+25,Samson CH700,1490
+26,Samson SR850,3735
+27,Panasonic RP-HT16,3384
+
+[Computer Accessories]
+28,TP-Link Wifi Range Extender,1200
+29,Monitor Cable(DVI),150
+30,USB Hub QHL,55
+31,Monitor Cable,125
+32,Card Reader,350
+33,Blue-tooth Vista Ready,160
+34,Logitech M-171 Mouse,825
+35,HP C2500 Keyboard and Mouse,790
+36,1 TB Hard Disk,2000
+
+[Mobile Accessories]
+37,MI 3i 10000 mAh PowerBank,799
+38,iBall 10000 mAh PowerBank,499
+39,boAt USB cable,129
+40,Backcover for Poco X2,259
+41,Tempered Glass for Poco X2,189
+42,Backcover for Vivo V20,229
+43,Tempered Glass for Poco F1,329
+44,Mi USB cable,149
+45,Ambrane USB Cable,89
